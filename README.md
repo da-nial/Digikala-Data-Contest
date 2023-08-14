@@ -3,7 +3,7 @@
 This repository contains my solutions for
 the [Digikala Data Science Contest](https://quera.org/contest/assignments/20120/problems/66283) held in Fall 2021, where
 I ranked 4th.
-The complete problem statement and datasets for each task can be found in the
+The complete problem statements and datasets for each task can be found in the
 contest [page](https://quera.org/contest/assignments/20120/problems/66283), in Persian.
 
 The contest had 6 machine learning problems based on Digikala's datasets.
